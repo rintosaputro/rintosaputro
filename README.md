@@ -1,5 +1,5 @@
 # About Me:
-Hello, I'm Rinto Saputro, and I'm a full-stack web developer with a strong passion for JavaScript.
+Hello, I'm Rinto Saputro, a full-stack web developer with a strong passion for JavaScript.
 
 
 ## Socials:
